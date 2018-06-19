@@ -15,7 +15,8 @@ public class App {
 	
     public static void main( String[] args )
     {
-        //System.out.println( "Hello World!" );
+        System.out.println( "Hello World!" );
+		System.out.println( "Thanks to all" );
     	String user = "Michele";
     	logger.info("Ho registrato l'utente: " + user);
     	
